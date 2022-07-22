@@ -11,5 +11,6 @@
 
 # Run 
 ```node
+npm install
 node app.js
 ```
